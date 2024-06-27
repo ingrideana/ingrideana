@@ -2,7 +2,7 @@
 
 - Our name´s are Ingrid and Ana
 
-- We are studying in Alura
+- We are studying in (https://www.alura.com.br/)
 
 - We are working in JavaScript
 
